@@ -325,7 +325,7 @@
   },
   {
     "ASN": 15497,
-    "Entity": "COLOCALL Internet Data Center "
+    "Entity": "COLOCALL Internet Data Center \"ColoCALL\", UA"
   },
   {
     "ASN": 15510,
@@ -1708,6 +1708,10 @@
     "Entity": "Paul David Hughes trading as Hosting Systems"
   },
   {
+    "ASN": 48031,
+    "Entity": "PE Ivanov Vitaliy Sergeevich - xserver.ua"
+  },
+  {
     "ASN": 48093,
     "Entity": "Webland Hosting AB"
   },
@@ -1816,6 +1820,10 @@
     "Entity": "Hostmaster, Ltd."
   },
   {
+    "ASN": 50979,
+    "Entity": "ITL LLC"
+  },
+  {
     "ASN": 50986,
     "Entity": "Excellent Hosting Sweden AB"
   },
@@ -1862,6 +1870,10 @@
   {
     "ASN": 51430,
     "Entity": "ALTUSHOST-NET, NL"
+  },
+  {
+    "ASN": 51447,
+    "Entity": " \"RootLayer Web Services Ltd"
   },
   {
     "ASN": 51698,
@@ -2636,6 +2648,10 @@
     "Entity": "Game-Hosting GH AB"
   },
   {
+    "ASN": 198375,
+    "Entity": "INULOGIC SARL, FR"
+  },
+  {
     "ASN": 198414,
     "Entity": "Biznes-Host.pl sp. z o.o."
   },
@@ -2792,8 +2808,16 @@
     "Entity": "ABELOHOST, NL"
   },
   {
+    "ASN": 204957,
+    "Entity": "servers.com"
+  },
+  {
     "ASN": 206898,
     "Entity": "Server Hosting Pty Ltd"
+  },
+  {
+    "ASN": 212238,
+    "Entity": "DataCamp Limited"
   },
   {
     "ASN": 262170,
@@ -2870,5 +2894,13 @@
   {
     "ASN": 395111,
     "Entity": "KVCNET-2009 - KVCHOSTING.COM LLC, US"
+  },
+  {
+    "ASN": 395978,
+    "Entity": "UNKNOWN"
+  },
+  {
+    "ASN": 398779,
+    "Entity": "ACEHOST"
   }
 ]
