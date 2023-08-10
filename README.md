@@ -1,6 +1,20 @@
 # bad-asn-list
 An open source list of ASNs known to belong to cloud, managed hosting, and colo facilities.
 
+## Adding ASN to list
+
+You are free to add suspicious ASNs providing Hosting / VPN services.
+
+To add ASN to the list,
+
+- Add suspicious ASN to any line of `bad-asn-list.csv`
+
+- Install Node.js, run `node ./index.js` to sort and update both `bad-asn-list.csv` and `bad-asn-list.json`
+
+- After sorting it, feel free to submit the PR!
+
+Also, rasing issues for adding bad ASN is also allowed, please describe why ASN should be listed, the ASN number, and the Entity information.
+
 ## The Problem
 
 This list came after spending far too long searching for a good way to keep automated bots, spammers, and scammers off the social network I created, Nearby. I found that after we hit a certain size (around 500K monthly active users), the flood of these bad actors became entirely unmanagable. I tried countless detection methods, but most of them resulted in too many missed and/or false positives. 
