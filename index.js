@@ -6,7 +6,7 @@ let asn_list = [];
 
 const ASN_FILE = 'bad-asn-list.csv';
 const ASN_JSON = 'bad-asn-list.json';
-const NEW_ASN_FILE = '';
+const NEW_ASN_FILE = 'bad-asn-list.csv.1';
 
 const csvStringToArray = (strData) => {
   const objPattern = new RegExp(('(\\,|\\r?\\n|\\r|^)(?:"([^"]*(?:""[^"]*)*)"|([^\\,\\r\\n]*))'),'gi');

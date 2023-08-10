@@ -325,7 +325,7 @@
   },
   {
     "ASN": 15497,
-    "Entity": "COLOCALL Internet Data Center \"ColoCALL\", UA"
+    "Entity": "COLOCALL Internet Data Center "
   },
   {
     "ASN": 15510,
@@ -926,6 +926,10 @@
   {
     "ASN": 30998,
     "Entity": "NAL-AS, NG"
+  },
+  {
+    "ASN": 31034,
+    "Entity": "Aruba S.p.A."
   },
   {
     "ASN": 31103,
@@ -1592,6 +1596,10 @@
     "Entity": "Interhost Pacific Pty Ltd t/a Intervolve."
   },
   {
+    "ASN": 45650,
+    "Entity": "Vianet Communications Pvt. Ltd."
+  },
+  {
     "ASN": 45671,
     "Entity": "AS45671-NET-AU Wholesale Services Provider, AU"
   },
@@ -1634,6 +1642,10 @@
   {
     "ASN": 46562,
     "Entity": "TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US"
+  },
+  {
+    "ASN": 46573,
+    "Entity": "Global Frag Networks"
   },
   {
     "ASN": 46664,
@@ -1738,6 +1750,10 @@
   {
     "ASN": 49349,
     "Entity": "DOTSI, PT"
+  },
+  {
+    "ASN": 49367,
+    "Entity": "Seflow S.N.C. Di Marco Brame' &amp; C."
   },
   {
     "ASN": 49453,
@@ -1873,7 +1889,7 @@
   },
   {
     "ASN": 51447,
-    "Entity": " \"RootLayer Web Services Ltd"
+    "Entity": " "
   },
   {
     "ASN": 51698,
@@ -2816,6 +2832,10 @@
     "Entity": "Server Hosting Pty Ltd"
   },
   {
+    "ASN": 210138,
+    "Entity": "FLOWSPEC LTD"
+  },
+  {
     "ASN": 212238,
     "Entity": "DataCamp Limited"
   },
@@ -2898,6 +2918,10 @@
   {
     "ASN": 395978,
     "Entity": "UNKNOWN"
+  },
+  {
+    "ASN": 396362,
+    "Entity": "Leaseweb USA, Inc."
   },
   {
     "ASN": 398779,
