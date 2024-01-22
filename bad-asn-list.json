@@ -868,6 +868,10 @@
     "Entity": "WEBAIR-INTERNET-2 - Webair Internet Development Company Inc."
   },
   {
+    "ASN": 20278,
+    "Entity": "NEXEON"
+  },
+  {
     "ASN": 20360,
     "Entity": "CA | OppoBox LLC"
   },
@@ -1692,6 +1696,10 @@
     "Entity": "ALLHOSTSHOP.COM"
   },
   {
+    "ASN": 33576,
+    "Entity": "DIG001"
+  },
+  {
     "ASN": 33611,
     "Entity": "US | SBJ MEDIA LLC"
   },
@@ -2036,6 +2044,10 @@
     "Entity": "HOSTWAY ROMANIA SRL"
   },
   {
+    "ASN": 39798,
+    "Entity": "MIVOCLOUD"
+  },
+  {
     "ASN": 39839,
     "Entity": "DK Hostmaster A/S"
   },
@@ -2344,6 +2356,10 @@
     "Entity": "RO | SC Holland Toner SRL"
   },
   {
+    "ASN": 44477,
+    "Entity": "STARK-INDUSTRIES"
+  },
+  {
     "ASN": 44520,
     "Entity": "RO | Multihands SRL"
   },
@@ -2624,6 +2640,10 @@
     "Entity": "RU | MOBILESTROYPROEKTAS, RU"
   },
   {
+    "ASN": 48080,
+    "Entity": "ORG-DP125-RIPE"
+  },
+  {
     "ASN": 48093,
     "Entity": "Webland Hosting AB"
   },
@@ -2762,6 +2782,10 @@
   {
     "ASN": 50297,
     "Entity": "INFIUM, UA"
+  },
+  {
+    "ASN": 50340,
+    "Entity": "SELECTEL-MSK"
   },
   {
     "ASN": 50461,
@@ -2904,6 +2928,10 @@
     "Entity": "RO | PROEVOLUTION PROEVOLUTION SRL,RO"
   },
   {
+    "ASN": 52000,
+    "Entity": "MIRHOSTING"
+  },
+  {
     "ASN": 52048,
     "Entity": "DATACLUB, LV"
   },
@@ -2922,6 +2950,10 @@
   {
     "ASN": 52270,
     "Entity": "X-Host SRL"
+  },
+  {
+    "ASN": 52284,
+    "Entity": "Panamaserver.com"
   },
   {
     "ASN": 52302,
@@ -3466,6 +3498,10 @@
   {
     "ASN": 59705,
     "Entity": "POBOX Hosting Limited"
+  },
+  {
+    "ASN": 59711,
+    "Entity": "HZ-EU-AS"
   },
   {
     "ASN": 59729,
@@ -4384,6 +4420,10 @@
     "Entity": "Ansluten Hosting i Sverige AB"
   },
   {
+    "ASN": 202015,
+    "Entity": "HZ-US-AS"
+  },
+  {
     "ASN": 202023,
     "Entity": "LLHost Inc"
   },
@@ -4784,6 +4824,10 @@
     "Entity": "RU | DIMEWEB-NET, RU"
   },
   {
+    "ASN": 207713,
+    "Entity": "GIR-AS"
+  },
+  {
     "ASN": 208476,
     "Entity": "NL | Danilenko, Artyom"
   },
@@ -4794,6 +4838,10 @@
   {
     "ASN": 209128,
     "Entity": " | Speedyinternet Limited"
+  },
+  {
+    "ASN": 209272,
+    "Entity": "AS-ALVIVA"
   },
   {
     "ASN": 209559,
@@ -5106,5 +5154,9 @@
   {
     "ASN": 398779,
     "Entity": "ACEHOST"
+  },
+  {
+    "ASN": 399629,
+    "Entity": "BLNWX"
   }
 ]
